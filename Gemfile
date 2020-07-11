@@ -122,7 +122,7 @@ gem 'bootsnap', '>= 1.1.0', require: false      # Reduces boot times through cac
 #gem 'will_paginate'
 #gem 'bootstrap-will_paginate'
 
-gem 'bootstrap', '~> 4.0.0'                     # https://github.com/twbs/bootstrap-rubygem
+gem 'bootstrap', '~> 4.3.1'                     # https://github.com/twbs/bootstrap-rubygem
 
 gem 'lightbox2-rails'                           # https://github.com/gavinkflam/lightbox2-rails
 gem 'simple_form'                               # https://github.com/plataformatec/simple_form
